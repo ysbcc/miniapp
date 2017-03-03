@@ -1,4 +1,9 @@
+##几个微信小程序的优化技巧
+
+作者：vicyao
+
 转载请注明出处: [https://github.com/ysbcc/miniapp](https://github.com/ysbcc/miniapp)
+
 小程序科普类的文章已经很多了，这里讲下针对小程序的优化方法，可以有效提高小程序的响应速度和用户体验。当然，开发体验也提高不少。
 
 
